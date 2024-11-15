@@ -1,2 +1,2 @@
-# bd3-atv3-daniel
-Atividade somatória para obtenção de nota.
+# bd3-firebase-daniel
+Repositório criado a fim de obter conhecimento sobre firebase na aula de Banco de Dados.
